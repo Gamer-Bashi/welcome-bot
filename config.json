@@ -1,0 +1,10 @@
+{
+    "Activity": "esme activity",
+    "Type": "--", //beyne "PLAYING" ya "WATCHING" ya "LISTENING"(baad az entekhab in matno pak konid)
+    "ChannelID": "Welcome channele shoma",
+    "Descriptione-Embed": "tozih", //@mention tozih
+    "Tasvire-Koochik": "Linke tasvire ya gife koochik dar embed",
+    "tasvire-bozorh": "linke tasvir ya gife bozorg dar embed",
+    "footer": "esme server",
+    "token": "bot token"
+}
